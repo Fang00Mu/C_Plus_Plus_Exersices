@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cpp01"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp01">
+				<Option output="D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/cpp01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\clion_and_keil\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\clion_and_keil\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\clion_and_keil\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\clion_and_keil\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\clion_and_keil\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\clion_and_keil\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp01"/>
+					<CompileFile command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpp01/fast">
+				<Option output="D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/cpp01.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="d:\clion_and_keil\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="d:\clion_and_keil\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="d:\clion_and_keil\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="d:\clion_and_keil\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="d:\clion_and_keil\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="d:\clion_and_keil\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpp01/fast"/>
+					<CompileFile command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/clion_and_keil/MinGW/bin/mingw32-make.exe -f &quot;D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/main.cpp">
+			<Option target="cpp01"/>
+		</Unit>
+		<Unit filename="D:/clion_and_keil/Clion2020.3.4/cpp_project/cpp01/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

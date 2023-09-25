@@ -1,0 +1,3 @@
+D:\clion_and_keil\Clion2020.3.4\CLion-2020.3.4.win\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\cpp01.dir/objects.a
+D:\clion_and_keil\MinGW\bin\ar.exe cr CMakeFiles\cpp01.dir/objects.a @CMakeFiles\cpp01.dir\objects1.rsp
+D:\clion_and_keil\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\cpp01.dir/objects.a -Wl,--no-whole-archive  -o cpp01.exe -Wl,--out-implib,libcpp01.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cpp01.dir\linklibs.rsp
